@@ -19,7 +19,7 @@ I am a <16> y/o launcher developer
 
 ## Diamond Services
 
-If you ever need to buy a launcher, join my Discord server:  
+If you ever need a launcher, join my Discord server:  
 https://discord.gg/hPqqMD8N
 
 ---
