@@ -1,4 +1,4 @@
-# Hey, I'm <UnknownUser>
+# Hey, I'm UnknownUser
 
 ### Launcher Developer
 
